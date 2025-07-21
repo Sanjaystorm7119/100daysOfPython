@@ -14,6 +14,8 @@ import random
 # # list1.extend(list2)
 # list1 += list2
 # print(list1)
+#sample
+
 
 friends = ["ram", "shyam", "hari", "gita"]
 print(random.sample(friends,1))
